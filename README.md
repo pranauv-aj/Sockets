@@ -12,3 +12,20 @@ Sec-GPC: 1
 Accept-Encoding: gzip, deflate
 Accept-Language: en-US,en;q=0.9
 ```
+
+### HTTP Response
+```
+HTTP/1.1 200 OK
+Date: Thu, 26 Aug 2021 01:24:59 GMT
+Server: Apache
+Last-Modified: Sat, 24 Apr 2021 15:26:53 GMT
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 12042
+Keep-Alive: timeout=15, max=81
+Connection: Keep-Alive
+Content-Type: text/html
+Set-Cookie: BIGipServer~CUIT~www.columbia.edu-80-pool=1781021568.20480.0000; expires=Thu, 26-Aug-2021 07:24:59 GMT; path=/; Httponly
+
+```
