@@ -29,3 +29,6 @@ Content-Type: text/html
 Set-Cookie: BIGipServer~CUIT~www.columbia.edu-80-pool=1781021568.20480.0000; expires=Thu, 26-Aug-2021 07:24:59 GMT; path=/; Httponly
 
 ```
+### Client-Server Interaction
+
+![image](https://user-images.githubusercontent.com/86508489/130905338-685bec70-4382-413c-a37d-adecb3687759.png)
