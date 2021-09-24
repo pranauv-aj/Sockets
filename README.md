@@ -31,4 +31,5 @@ Set-Cookie: BIGipServer~CUIT~www.columbia.edu-80-pool=1781021568.20480.0000; exp
 ```
 ### Client-Server Interaction
 
-![image](https://user-images.githubusercontent.com/86508489/130905338-685bec70-4382-413c-a37d-adecb3687759.png)
+<img width="1433" alt="Screenshot 2021-09-24 at 7 25 49 AM" src="https://user-images.githubusercontent.com/86508489/134606703-0ea48255-4cd8-44d9-9e54-f578620ed175.png">
+
